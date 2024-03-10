@@ -1,0 +1,20 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-family: "Ubuntu", sans-serif;
+    font-weight:bold;
+    font-size:2rem;
+    color:#ffffff;
+}
+.custom-nav .custom-nav-item a,.navbar-text{
+    color:#ffffff !important;
+}
+.custom-nav-item:hover{
+    background-color: #dc3545;
+    border:solid #dc3545 1px;
+    border-radius:10px;
+    color:#ffffff;
+}
